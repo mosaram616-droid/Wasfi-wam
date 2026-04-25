@@ -1,5 +1,4 @@
 # Wasfi-wam
-نظام طاقة سيادي (WAM-2026) للمبتكر وصفي الشحادة. يعتمد مفاعل الاندماج النانوي الموزع على وقود الماء وضغط 550 بار لإنتاج 30 كيلوواط. يوثق البحث ميكانيكا "استبدال الكوارك" لاستقرار النواة، وتلاشي الناقل الإلكتروني مسبباً سواد الثقوب السوداء. العمل محمي بالهاش السيادي وبراءة الاختراع WAM-2025-NANOFUSION-XE-01 لضمان الملكية الحوسبية المطلقة.
 <?xml version="1.0" encoding="UTF-8"?>
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.7/metadata.xsd">
   <identifier identifierType="DOI">10.5281/zenodo.18115823</identifier>
