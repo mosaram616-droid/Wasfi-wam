@@ -1,0 +1,94 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\begin{document}
+
+ \cite{AlShehadeh2026QuarkTheory}.
+
+   references.bib
+\bibliographystyle{plain}
+\bibliography{references} 
+
+\end{document}
+@techreport{AlShehadeh2026QuarkTheory,
+  author = {Wasfi Ahamad Mohamed Al-shehada},
+  title = {The Primordial Quark Theory: A Derivative Approach to Matter},
+  year = {2026},
+  institution = {Independent Research},
+  type = {Technical Report},
+  doi = {10.5281/zenodo.20646902}
+}
+
+@techreport{AlShehadeh2026QuantumDynamics,
+  author = {Wasfi Ahmed Mohammed Al-Shehada},
+  title = {Quantum Dynamics and the Speed of Information},
+  year = {2026},
+  institution = {Independent Research},
+  type = {Technical Report},
+  doi = {10.5281/zenodo.20602542}
+}
+
+@techreport{AlShehadeh2026Associative,
+  author = {Wasfi Ahamad Mohamed Al-shehada},
+  title = {The Law of Associative Variables: A Relational Framework Between Watts and Joules},
+  year = {2026},
+  institution = {Conceptual Physics Framework},
+  type = {Technical Report},
+  doi = {10.5281/zenodo.20431940}
+}
+
+@techreport{AlShehadeh2026Observer,
+  author = {Wasfi Ahmad Mohammed},
+  title = {Collaborative Inquiry: The Observer and Existence},
+  year = {2026},
+  institution = {Independent Research},
+  type = {Technical Report}
+}
+
+@techreport{AlShehadeh2026ShhadaConstant,
+  author = {Wasfi Ahamad Mohamed Al-shehada},
+  title = {The Shhada Phase-Shift Constant: Mathematical Formulation of the 1/3 Prefix Boundary in the SIT-WAM Framework},
+  year = {2026},
+  institution = {SIT-WAM Framework},
+  type = {Technical Report}
+}
+
+@techreport{AlShhada2026QuarkSubstitution,
+  author = {Wasfi Ahmed Mohammed Al-Shhada},
+  title = {Structural Physics and WAM Law: The Quark Substitution Mechanism},
+  year = {2026},
+  institution = {Independent Research},
+  type = {Technical Report}
+}
+
+@techreport{AlShehadeh2025StructuralTower,
+  author = {Wafi Ahmad Al-Shehadeh},
+  title = {The Structural Tower: Internal Galactic Lens and Light Diffusion},
+  year = {2025},
+  institution = {Independent Research},
+  type = {Technical Report}
+}
+
+@techreport{AlShhada2025UnifiedPhysics,
+  author = {Wasfi Ahmed Mohammed Al-Shhada},
+  title = {Unified Structural Physics (WAM-2025): Structural Gravity and Mass-Inertia Theory},
+  year = {2025},
+  institution = {WAM-2025 Project},
+  type = {Technical Report}
+}
+
+@techreport{AlShhada2025OpticalDeception,
+  author = {Wasfi Ahmed Mohammed Al-Shhada},
+  title = {Comparative Analysis of Optical Deception: Solar Observer Horizons vs. Black Hole Light Entrapment},
+  year = {2025},
+  institution = {WAM-2025 Project},
+  type = {Technical Report}
+}
+
+@techreport{AlShehadeh2025UnifiedTheory,
+  author = {Wasfi Ahmad Mohammad Al-Shehadeh},
+  title = {The Unified Theory of Local and Cosmic Expansion: Energy Volume Collapse and Black Hole Evaporation},
+  year = {2025},
+  institution = {Independent Research},
+  type = {Technical Report}
+}
