@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - name: "mosaram616-droid"
+title: "Wasfi-wam"
+version: "2.3.2"
+doi: "10.5281/zenodo.21271184"
+url: "https://doi.org/10.5281/zenodo.21271184"
